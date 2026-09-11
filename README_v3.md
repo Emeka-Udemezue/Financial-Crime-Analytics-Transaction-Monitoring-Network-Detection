@@ -190,15 +190,9 @@ Built in Tableau Desktop, connected live to MySQL (`account_risk_score`) with th
 
 **Screenshots:** 
 
-```
-outputs/
-├── dashboard_overview.png 
-├── precision_recall_chart.png
-└── tiered_triage_funnel.png
-```
-
 ![Dashboard Overview](dashboard_overview.png)
-
+![precision_recall_chart](precision_recall_chart.png)
+![tiered_triage_funnel](tiered_triage_funnel.png)
 
 ## Regulatory Framing
 
