@@ -198,7 +198,7 @@ outputs/
 ```
 
 To embed in this README once added:
-![Dashboard Overview]((https://github.com/Emeka-Udemezue/Financial-Crime-Analytics-Transaction-Monitoring-Network-Detection/blob/main/dashboard_overview.png?raw=true))
+![Dashboard Overview](dashboard_overview.png)
 
 
 ## Regulatory Framing
