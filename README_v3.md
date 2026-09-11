@@ -197,7 +197,6 @@ outputs/
 └── tiered_triage_funnel.png
 ```
 
-To embed in this README once added:
 ![Dashboard Overview](dashboard_overview.png)
 
 
