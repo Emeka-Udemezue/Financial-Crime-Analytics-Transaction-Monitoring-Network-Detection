@@ -199,10 +199,9 @@ outputs/
 
 To embed in this README once added:
 ```markdown
-![Dashboard Overview](outputs/dashboard_overview.png)
+![Dashboard Overview]([outputs/dashboard_overview.png](https://github.com/Emeka-Udemezue/Financial-Crime-Analytics-Transaction-Monitoring-Network-Detection/blob/main/dashboard_overview.png?raw=true))
 ```
 
-If publishing publicly, consider also publishing the workbook itself to [Tableau Public](https://public.tableau.com) and linking it here — this lets reviewers interact with the dashboard directly rather than viewing static images. Note: Tableau Public requires file-based extracts rather than a live MySQL connection, so you'd need to export the relevant tables/queries as CSVs before publishing.
 
 ## Regulatory Framing
 
@@ -211,5 +210,3 @@ Typologies detected here map to FATF (Financial Action Task Force) guidance on m
 ## Author
 
 Emeka — Data Analyst, Financial Control & Strategic Planning, with 10+ years of banking experience in AML/KYC compliance and financial reporting, transitioning into technical data analytics roles.
-
-[LinkedIn] · [GitHub]
