@@ -192,7 +192,7 @@ Built in Tableau Desktop, connected live to MySQL (`account_risk_score`) with th
 
 ```
 outputs/
-├── dashboard_overview.png       # full dashboard, all sheets
+├── dashboard_overview.png 
 ├── precision_recall_chart.png
 └── tiered_triage_funnel.png
 ```
