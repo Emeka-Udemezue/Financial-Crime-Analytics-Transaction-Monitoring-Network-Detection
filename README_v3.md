@@ -198,7 +198,7 @@ outputs/
 ```
 
 To embed in this README once added:
-```markdown
+```
 ![Dashboard Overview]([outputs/dashboard_overview.png](https://github.com/Emeka-Udemezue/Financial-Crime-Analytics-Transaction-Monitoring-Network-Detection/blob/main/dashboard_overview.png?raw=true))
 ```
 
